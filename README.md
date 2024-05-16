@@ -1,9 +1,8 @@
-## シンプルな Todo アプリ
+## TodoApp-iOS
 
-- カテゴリーを追加できる
-- カテゴリーごとに todo を追加できる
+A simple app to add categories and todos.
 
-## 使用技術
+## Features
 
 - SwiftUI
 - SwiftData
